@@ -1,0 +1,122 @@
+[
+  {
+    "title": "How many sizes of headers are available in HTML by default?",
+    "answer_1": "5",
+    "answer_2": "1",
+    "answer_3": "3",
+    "answer_4": "6",
+    "right_answer": "6"
+  },
+  {
+    "title": "Which HTML tag is called the root element of an HTML document?",
+    "answer_1": "<body>",
+    "answer_2": "<html>",
+    "answer_3": "<title>",
+    "answer_4": "<head>",
+    "right_answer": "<html>"
+  },
+  {
+    "title": "How is black color represented in terms of RGB values?",
+    "answer_1": "RGB(100, 0, 0)",
+    "answer_2": "RGB(100, 100, 100)",
+    "answer_3": "RGB(100, 100, 0)",
+    "answer_4": "RGB(0, 0, 0)",
+    "right_answer": "RGB(0, 0, 0)"
+  },
+  {
+    "title": "The CSS inside HTML elements used alongside style attribute is called?",
+    "answer_1": "Internal CSS",
+    "answer_2": "Inline CSS",
+    "answer_3": "External CSS",
+    "answer_4": "None Of The Above",
+    "right_answer": "Inline CSS"
+  },
+  {
+    "title": "Which property allows an image link to show a text label?",
+    "answer_1": "str",
+    "answer_2": "alternative",
+    "answer_3": "alt",
+    "answer_4": "None Of The Above",
+    "right_answer": "alt"
+  },
+  {
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Break line",
+    "answer_4": "To Create Horizontal Line",
+    "right_answer": "To Add Break line"
+  },
+  {
+    "title": "Is <img> Element Has Attribute href",
+    "answer_1": "Yes",
+    "answer_2": "No Its For Anchor Tag <a>",
+    "answer_3": "All Elements Has This Attribute",
+    "answer_4": "Answer 1 And 3 Is Right",
+    "right_answer": "No Its For Anchor Tag <a>"
+  },
+  {
+    "title": "How Can We Make Element Text Bold",
+    "answer_1": "Putting It Inside <b> Tag",
+    "answer_2": "Putting It Inside <strong> Tag",
+    "answer_3": "Customizing It With Font-Weight Property In CSS",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What Is The Right Hierarchy For Creating Part Of Page",
+    "answer_1": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
+    "answer_2": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
+    "answer_3": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "All Solutions Is Wrong"
+  },
+  {
+    "title": "How Can We Include External Page Inside Our HTML Page",
+    "answer_1": "By Using Include in HTML",
+    "answer_2": "By Using Load In HTML",
+    "answer_3": "By Using iFrame Tag",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "By Using iFrame Tag"
+  },
+  {
+    "title": "What Is The Tag That Not Exists in HTML",
+    "answer_1": "<object>",
+    "answer_2": "<base font>",
+    "answer_3": "<abbr>",
+    "answer_4": "All Tags Is Exists in HTML",
+    "right_answer": "All Tags Is Exists in HTML"
+  },
+  {
+    "title": "How We Specify Document Type Of HTML5 Page",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<block quote>",
+    "answer_4": "<aside>",
+    "right_answer": "<block quote>"
+  },
+  {
+    "title": "In HTML Can We Use This Way To Add Attributes",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All Is Right",
+    "right_answer": "All Is Right"
+  },
+  {
+    "title": "What does the abbreviation HTML stand for?",
+    "answer_1": "HyperText Markup Language.",
+    "answer_2": "HighText Markup Language.",
+    "answer_3": "HyperText Markdown Language.",
+    "answer_4": "None of the above.",
+    "right_answer": "HyperText Markup Language."
+  }
+]
