@@ -16,11 +16,7 @@ body {
   transform: translate(-50%,-50%);
 }
 
-@media(max-width:768px) {
-  .quiz-app {
-    width: 500px;
-  }
-}
+
 
 .quiz-app .quiz-info {
   display: flex;
@@ -131,4 +127,34 @@ body {
 
 .quiz-app .results span.perfect {
   color: #0075ff;
+}
+
+@media (max-width: 768px) {
+  .quiz-app {
+    width: 90%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .quiz-app .bullets {
+    width: 90%;
+  }
+
+  .quiz-app .bullets .spans span {
+    width: 10px;
+    height: 10px;
+    background-color: #ddd;
+    margin-right: 2px;
+  }
+  .quiz-app .bullets {
+    padding: 10px 5px;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+  }
+  .quiz-app .quiz-info .count {
+    text-align: center;
+  }
 }
